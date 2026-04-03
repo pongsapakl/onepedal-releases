@@ -2,7 +2,7 @@
 
 Type your tone. Play immediately. Free.
 
-**[→ Download the latest release](../../releases/latest)**
+**[Download the latest release](../../releases/latest)**
 
 ---
 
@@ -14,6 +14,8 @@ Type your tone. Play immediately. Free.
 - **Standalone app** — no DAW required
 - **macOS** — Windows coming soon
 
-## Try it in your browser
+## Links
 
-No download needed: [one-pedal-landing-page.vercel.app/demo](https://one-pedal-landing-page.vercel.app/demo)
+- [Website](https://one-pedal-landing-page.vercel.app) — installation guide, system requirements, screenshots
+- [Try the web demo](https://one-pedal-landing-page.vercel.app/demo) — no download needed, try it in your browser
+- [Download page](https://one-pedal-landing-page.vercel.app/download) — download directly from our site
